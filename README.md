@@ -4,6 +4,8 @@ This repo provides a proof-of-concept for the design and implementation of a Hom
 
 *Mahmoud Sayed and Mostafa Taha, Evaluation of Encrypted Matching Criteria using Homomorphic Encryption-Based FSM, Journal of Cryptographic Engineering, 2024.*
 
+![System Overview of the interaction between the trusted client and the cloud operator in the context of EFSM](https://github.com/Carleton-SCI/HEFSM/blob/main/system_overview.png)
+
 ## Contents
 
 This repo contains two implementations:
